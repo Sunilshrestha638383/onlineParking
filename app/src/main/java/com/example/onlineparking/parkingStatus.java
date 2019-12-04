@@ -26,17 +26,6 @@ public class parkingStatus extends AppCompatActivity {
 
 
     private FirebaseFirestore mFirestore;
-    @Override
-    protected void onStart(){
-        super.onStart();
-        mFirestore.collection("guides").document("IO3p6JwVKQK8ZyM7LHjJ").addSnapshotListener(new EventListener<DocumentSnapshot>() {
-            @Override
-            public void onEvent(@Nullable DocumentSnapshot documentSnapshot, @Nullable FirebaseFirestoreException e) {
-                String name=documentSnapshot.getString("guides");
-                textViewData.setText("parkingStatus"+name);
-            }
-        });
-    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
