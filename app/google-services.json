@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1081091180430",
+    "firebase_url": "https://online-parking-b8b74.firebaseio.com",
+    "project_id": "online-parking-b8b74",
+    "storage_bucket": "online-parking-b8b74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081091180430:android:5834446d53f979f2da86df",
+        "android_client_info": {
+          "package_name": "com.example.newa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081091180430-f33dnfjd2ovh2mem047g4q0cs0q98137.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newa",
+            "certificate_hash": "63e79e152329ebaad3757745b8bb813a53288168"
+          }
+        },
+        {
+          "client_id": "1081091180430-j0e12egjrtv1vcgms77u1d6krop7roq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLjk_C6nKcsJb5MFCGrAWjv42-BQg7wSw"
+        },
+        {
+          "current_key": "AIzaSyC3y1ZSyUBiErUzklq5Oziw3Qq-2hQLrxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081091180430-j0e12egjrtv1vcgms77u1d6krop7roq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081091180430:android:3ce6cf26c159e776",
+        "android_client_info": {
+          "package_name": "com.example.onlineparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081091180430-k7ts48l4q316493ovteb99th5hc23d11.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlineparking",
+            "certificate_hash": "3d73bb7fe60d866ebcce4c4858b4ed30596cfd74"
+          }
+        },
+        {
+          "client_id": "1081091180430-5jsrhehp5uda7dcau42b2qniphofsk90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlineparking",
+            "certificate_hash": "63e79e152329ebaad3757745b8bb813a53288168"
+          }
+        },
+        {
+          "client_id": "1081091180430-j0e12egjrtv1vcgms77u1d6krop7roq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLjk_C6nKcsJb5MFCGrAWjv42-BQg7wSw"
+        },
+        {
+          "current_key": "AIzaSyC3y1ZSyUBiErUzklq5Oziw3Qq-2hQLrxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081091180430-j0e12egjrtv1vcgms77u1d6krop7roq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
